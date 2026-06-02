@@ -85,7 +85,8 @@ Through this project, we gained experience in:
 
 ## Authors
 
-Developed as part of a Python programming project for educational purposes.
+1. Redha Alturaik
+2. Mohammed Alfaraj
 
 ## License
 
